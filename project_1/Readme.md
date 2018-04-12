@@ -11,3 +11,4 @@ https://github.com/thedrhax-dockerfiles/android-sdk
 - docker-compose
 - copy apk to some obvious area
 - avoid downloading gradle and deps each time (build into image?)
+- build release version, etc

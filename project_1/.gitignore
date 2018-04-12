@@ -1,1 +1,2 @@
 .gradle/2.1/taskArtifacts/*
+build/outputs/lint-results.html
